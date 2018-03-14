@@ -1,0 +1,3 @@
+[run]
+source = simple_pyramid_test
+omit = simple_pyramid_test/test*
