@@ -1,0 +1,20 @@
+hupper==1.0
+Jinja2==2.10
+Mako==1.0.7
+MarkupSafe==1.0
+PasteDeploy==1.5.2
+plaster==1.0
+plaster-pastedeploy==0.4.2
+Pygments==2.2.0
+pyramid==1.9.1
+pyramid-debugtoolbar==4.4
+pyramid-jinja2==2.7
+pyramid-mako==1.0.2
+repoze.lru==0.7
+-e git+https://github.com/djaychela/simple_pyramid_test.git@905bd7c0ab29e76a40eaeb2317e5c5ac96d6a249#egg=simple_pyramid_test
+translationstring==1.3
+venusian==1.1.0
+waitress==1.1.0
+WebOb==1.8.0rc1
+zope.deprecation==4.3.0
+zope.interface==4.4.3
